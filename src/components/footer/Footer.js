@@ -19,7 +19,7 @@ const Footer = () => {
         </ul>
 
         <div className='footer__Socials'>
-        <a href='www.linkedin.com/in/martin-bravolr'><BsLinkedin size={25}/></a>
+        <a href='https://www.linkedin.com/in/martin-bravolr/'><BsLinkedin size={25}/></a>
         <a href='https://github.com/MartinBravoLR' ><BsGithub size={25} /></a>    
         <a href='https://wa.me/3804823049'><BsWhatsapp size={25}/></a>    
 
